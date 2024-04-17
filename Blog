@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Site</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <header>
+    <h1 id="header-title">★Welcome★</h1>
+    <p id="header-text"><b><i>Hi! My name is Barbara Rodas.</b></i> <br>I am a university student majoring in the exciting field of Information Technology. From a young age, I have always been fascinated by the world of technology and how it can transform the way we live, work, and communicate.</p>
+    <img alt="Personal-photo" src="https://lh3.googleusercontent.com/a/ACg8ocK_WOT_GsLrzoBKGdB06s_zotnz2XUwoFpb7j16fim9BRK7BDFRRBxca9fN1c8KGJcPOrxeWsX4AcPNufFbCnorINJgbjENPA=s288-c-no" />
+    <nav>
+      <ul>
+        <li><a href="about-section">About</a></li>
+        <li><a href="projects-section">Projects</a></li>
+        <li><a href="contact-section">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="about-section">
+      <h2>About me</h2><br/>
+      <p>In addition to my studies, I love exploring new technologies, participating in open-source projects, and contributing to the tech community. I firmly believe in the power of collaboration and continuous learning to drive innovation and progress.</p><br/>
+        <h3>🍁Hoobies</h3>
+        <br/>
+        <ul>
+          <li><b>♡ Planting:</b> I enjoy dedicating time to cultivating and caring for plants in my home. This activity provides me with a relaxing break and allows me to connect with nature.</li><br/>
+          <li><b>♡ Listening to Music:</b> Music is an important part of my life. I enjoy a wide range of musical genres and love discovering new songs and artists.</li><br/>
+          <li><b>♡ Outdoor Walking:</b> I love exploring nature and staying active outdoors. Whether hiking on natural trails or simply strolling through the city, I enjoy the exercise and tranquility that the outdoor environment offers.</li><br/>
+    </section>
+    <br/><hr/><br/>
+    <section id="projects-section">
+      <h2>Projects</h2><br/>
+      <p>Restaurant Menu, The restaurant menu is a project which, using HTML, creates a menu for a restaurant using the correct structure and composition of HTML. </p><br/>
+      <ul>
+        <li><a href="https://www.codedex.io/@kmyrodas75254/XBxTqvCSTGyVnNKJFCLj" alt="html-project">Html project</a></li>
+      </ul>
+    </section>  
+  </main>
+  <br/><hr/><br/>
+  <footer>
+    <section id="contact-section">
+      <h2>Contacts</h2>
+      <p>Please feel free to contact me: </p>
+      <p>★Tel:0985937623</p>
+    </section>
+    <div class="social-links">
+      <a href="https://www.instagram.com/kmyrodas/" id="instagram">Instagram</a>
+      <a href="https://github.com/Cami4444" id="github">Github</a>
+    </div>
+
+  </footer>
+</body>
+</html>
+
